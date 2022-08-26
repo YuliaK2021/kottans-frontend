@@ -10,3 +10,6 @@ I had no experience of git collaboration before, so it's new and little bit comp
 ## Intro to HTML and CSS
 You can find screen shots here: https://github.com/YuliaK2021/kottans-frontend/tree/main/task_html_css_intro
 Previously, I already had the experience of studying HTML & CSS, so it was simply to me.
+## Responsive Web Design
+You can find screen shots here:https://github.com/YuliaK2021/kottans-frontend/tree/main/task_responsive_web_design.
+Few months ago I've watched all videos on thise channel and have some practice in Web Design.
