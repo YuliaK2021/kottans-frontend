@@ -1,6 +1,7 @@
 # kottans-frontend. 
 Hi all! My name is Yulia and few months ago I've started to learn Web UA. I really like it and hope to get enough knowledge and skills to get a job in this sfera very soon.
 ## Git Basics
+You can find screen shots here: https://github.com/YuliaK2021/kottans-frontend/tree/main/tasks_git_basics
 The Git course on COURSERA is quite affordable and convenient.
 At the same time, learning on learngitbranching.js.org is not very convenient, they need to use better UI/UX there)
 ## Linux CLI, and HTTP
